@@ -1,0 +1,1 @@
+Amazon Blog Simple Website
